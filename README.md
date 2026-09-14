@@ -16,8 +16,8 @@ _Top 8 by GitHub stars — refreshed weekly by `.github/workflows/refresh-stars.
 
 | # | Project | Stars | What it does |
 |---|---------|-------|--------------|
-| 1 | **[Whisper](https://arxiv.org/abs/2212.04356)** | ⭐ 108k+ | Whisper is OpenAI's open-source speech recognition model trained on 680K hours of multilingual and multitask supervised data from the web. |
-| 2 | **[VoxCPM2](https://arxiv.org/abs/2606.06928)** | ⭐ 36k+ | VoxCPM2 is a fully open-source 2B-parameter multilingual, controllable speech generation foundation model extending VoxCPM's hierarchical… |
+| 1 | **[Whisper](https://arxiv.org/abs/2212.04356)** | ⭐ 109k+ | Whisper is OpenAI's open-source speech recognition model trained on 680K hours of multilingual and multitask supervised data from the web. |
+| 2 | **[VoxCPM2](https://arxiv.org/abs/2606.06928)** | ⭐ 37k+ | VoxCPM2 is a fully open-source 2B-parameter multilingual, controllable speech generation foundation model extending VoxCPM's hierarchical… |
 | 3 | **[MMS](https://arxiv.org/abs/2305.13516)** | ⭐ 32k+ | MMS (Massively Multilingual Speech) extends speech foundation models (wav2vec 2.0) to 1,107 languages for ASR and adds TTS and language i… |
 | 4 | **[MiniCPM-o](https://arxiv.org/abs/2604.27393)** | ⭐ 26k+ | MiniCPM-o 4.5 is OpenBMB's compact (8B-class) full-duplex omni-modal LLM supporting real-time vision, speech, and text interaction with l… |
 | 5 | **[IndexTTS](https://arxiv.org/abs/2502.05512)** | ⭐ 23k+ | IndexTTS is Bilibili's industrial-grade zero-shot TTS system optimised for production scenarios — controllable prosody, low-latency infer… |
