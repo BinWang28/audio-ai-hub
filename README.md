@@ -20,10 +20,10 @@ _Top 8 by GitHub stars — refreshed weekly by `.github/workflows/refresh-stars.
 | 2 | **[VoxCPM2](https://arxiv.org/abs/2606.06928)** | ⭐ 37k+ | VoxCPM2 is a fully open-source 2B-parameter multilingual, controllable speech generation foundation model extending VoxCPM's hierarchical… |
 | 3 | **[MMS](https://arxiv.org/abs/2305.13516)** | ⭐ 32k+ | MMS (Massively Multilingual Speech) extends speech foundation models (wav2vec 2.0) to 1,107 languages for ASR and adds TTS and language i… |
 | 4 | **[MiniCPM-o](https://arxiv.org/abs/2604.27393)** | ⭐ 26k+ | MiniCPM-o 4.5 is OpenBMB's compact (8B-class) full-duplex omni-modal LLM supporting real-time vision, speech, and text interaction with l… |
-| 5 | **[IndexTTS](https://arxiv.org/abs/2502.05512)** | ⭐ 23k+ | IndexTTS is Bilibili's industrial-grade zero-shot TTS system optimised for production scenarios — controllable prosody, low-latency infer… |
-| 6 | **[MusicGen](https://arxiv.org/abs/2306.05284)** | ⭐ 23k+ | MusicGen is Meta's single-stage autoregressive transformer for controllable text-conditioned music generation, operating over discrete En… |
-| 7 | **[AudioGen](https://arxiv.org/abs/2209.15352)** | ⭐ 23k+ | AudioGen is a transformer-based autoregressive model for text-to-environmental-sound generation, trained on discrete audio tokens. |
-| 8 | **[CosyVoice 3](https://arxiv.org/abs/2505.17589)** | ⭐ 23k+ | CosyVoice 3 scales the CosyVoice TTS stack with significantly larger pre-training data and a dedicated post-training stage, targeting in-… |
+| 5 | **[IndexTTS](https://arxiv.org/abs/2502.05512)** | ⭐ 24k+ | IndexTTS is Bilibili's industrial-grade zero-shot TTS system optimised for production scenarios — controllable prosody, low-latency infer… |
+| 6 | **[CosyVoice 3](https://arxiv.org/abs/2505.17589)** | ⭐ 23k+ | CosyVoice 3 scales the CosyVoice TTS stack with significantly larger pre-training data and a dedicated post-training stage, targeting in-… |
+| 7 | **[CosyVoice 2](https://arxiv.org/abs/2412.10117)** | ⭐ 23k+ | CosyVoice 2 is Alibaba's streaming TTS LLM, combining a unified speech tokenizer with a streaming-friendly LLM backbone to enable bidirec… |
+| 8 | **[MusicGen](https://arxiv.org/abs/2306.05284)** | ⭐ 23k+ | MusicGen is Meta's single-stage autoregressive transformer for controllable text-conditioned music generation, operating over discrete En… |
 
 ## 🆕 Recently added
 
