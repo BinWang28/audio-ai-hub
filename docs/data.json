@@ -288,6 +288,24 @@
     "Description": "MiniCPM-o 4.5 is OpenBMB's compact (8B-class) full-duplex omni-modal LLM supporting real-time vision, speech, and text interaction with low-latency streaming TTS, designed for on-device and edge deployment."
   },
   {
+    "Category": "Benchmark",
+    "Type": "Benchmark",
+    "Abbreviation": "ART",
+    "Title": "A Benchmark for Audio Reasoning Capabilities of Multimodal Large Language Models",
+    "Time": "2026-03",
+    "Affiliation": "Adam Mickiewicz University, Samsung",
+    "Author": "Iwona Christop, Mateusz Czyżnikiewicz, Paweł Skórzewski, Łukasz Bondaruk, Jakub Kubiak, Marcin Lewandowski, Marek Kubis",
+    "GitHub_Link": "https://github.com/SamsungLabs/ART",
+    "Paper_Link": "https://aclanthology.org/2026.eacl-long.42/",
+    "HF_Link": "https://huggingface.co/datasets/amu-cai/ART",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "English",
+    "Description": "ART (Audio Reasoning Tasks) is a benchmark for assessing the ability of multimodal models to solve problems that require reasoning over audio signal."
+  },
+  {
     "Category": "Model and Methods",
     "Type": "Speech Recognition Model",
     "Abbreviation": "Fun-ASR-Nano",

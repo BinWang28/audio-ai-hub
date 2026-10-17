@@ -2,7 +2,7 @@
 
 **The hub for audio AI research.** Curated papers, open models, benchmarks and datasets across audio LLMs · speech recognition · speech synthesis · music & audio generation.
 
-`129 entries` · `11 categories` · `latest: 2026-06`
+`130 entries` · `11 categories` · `latest: 2026-06`
 
 👉 **[Browse the interactive hub →](https://binwang28.github.io/audio-ai-hub/)** · [Contribute](CONTRIBUTING.md) · [Suggest a paper](https://github.com/BinWang28/audio-ai-hub/issues/new?template=add-paper.yml)
 
@@ -48,14 +48,14 @@ _The 10 most recent entries by date. See the [interactive site](https://binwang2
 | [Speech Recognition](https://binwang28.github.io/audio-ai-hub/#cat=Speech%20Recognition) | 6 |
 | [Speech Synthesis](https://binwang28.github.io/audio-ai-hub/#cat=Speech%20Synthesis) | 13 |
 | [Audio Generation](https://binwang28.github.io/audio-ai-hub/#cat=Audio%20Generation) | 9 |
-| [Benchmark](https://binwang28.github.io/audio-ai-hub/#cat=Benchmark) | 19 |
+| [Benchmark](https://binwang28.github.io/audio-ai-hub/#cat=Benchmark) | 20 |
 | [Dataset Resource](https://binwang28.github.io/audio-ai-hub/#cat=Dataset%20Resource) | 3 |
 | [Multimodal](https://binwang28.github.io/audio-ai-hub/#cat=Multimodal) | 6 |
 | [Survey](https://binwang28.github.io/audio-ai-hub/#cat=Survey) | 4 |
 | [Study](https://binwang28.github.io/audio-ai-hub/#cat=Study) | 3 |
 | [Safety](https://binwang28.github.io/audio-ai-hub/#cat=Safety) | 3 |
 | [Chatbot](https://binwang28.github.io/audio-ai-hub/#cat=Chatbot) | 3 |
-| **Total** | **129** |
+| **Total** | **130** |
 
 Each row links into the live site with the corresponding category filter pre-applied.
 
