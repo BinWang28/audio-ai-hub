@@ -1,5 +1,23 @@
 [
   {
+    "Category": "Model and Methods",
+    "Type": "Speech Recognition Model",
+    "Abbreviation": "Tiny Audio",
+    "Title": "Tiny Audio: A Minimal, Hackable Codebase for LLM-based Speech Recognition",
+    "Time": "2026-10",
+    "Affiliation": "",
+    "Author": "Alex Kroman",
+    "GitHub_Link": "https://github.com/alexkroman/tiny-audio",
+    "Paper_Link": "",
+    "HF_Link": "https://huggingface.co/mazesmazes/tiny-audio",
+    "Demo_Link": "https://huggingface.co/spaces/mazesmazes/tiny-audio",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "English",
+    "Description": "Tiny Audio is a minimal, hackable PyTorch / Hugging Face Transformers codebase for training LLM-based speech recognition. A frozen pretrained speech encoder (Granite Speech) is connected to a pretrained LLM (Qwen3.5-2B with LoRA) via a small trained projector, with ~80M trained parameters; the published model reaches 1.8% WER on LibriSpeech test-clean and 7.4% across 12 benchmarks. Includes word timestamps, speaker diarization, a batched HTTP inference server (CUDA/MPS/CPU), and a free 3.5-hour course."
+  },
+  {
     "Category": "Study",
     "Type": "Study",
     "Abbreviation": "ACA-SER",
