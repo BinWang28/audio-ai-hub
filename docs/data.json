@@ -1,5 +1,23 @@
 [
   {
+    "Category": "Benchmark",
+    "Type": "Benchmark",
+    "Abbreviation": "VoxParity",
+    "Title": "Almost Human, Except When It Matters: VoxParity and the Decisions a Voice Should Change",
+    "Time": "2026-09",
+    "Affiliation": "Independent researcher",
+    "Author": "Bhavik Mangla",
+    "GitHub_Link": "https://github.com/bhavik-mangla/voxparity-bench",
+    "Paper_Link": "https://arxiv.org/abs/2609.35922",
+    "HF_Link": "https://huggingface.co/datasets/bhavikmangla/voxparity-dev",
+    "Demo_Link": "",
+    "Other_Link": "https://bhavik-mangla.github.io/voxparity-bench/",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "English",
+    "Description": "VoxParity tests whether voice agents act on what they hear: in 183 scenarios the words stay fixed while the audio (tone of voice, background sound, a second voice) changes the correct tool call. It evaluates 28 systems with judge-free scoring against a words-only cascade baseline."
+  },
+  {
     "Category": "Study",
     "Type": "Study",
     "Abbreviation": "ACA-SER",
